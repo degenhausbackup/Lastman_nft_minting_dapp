@@ -1,4 +1,4 @@
-# Welcome to LastManHolding 👄
+# Welcome to LastManHolding
 
 ![](https://github.com/degenhausbackup/Lastman_nft_minting_dapp/blob/main/public/logo192.png)
 
@@ -16,7 +16,7 @@ To find out more please visit:
 
 [ℹ️ Website](https://hashlips.online/HashLips)
 
-# LastMan NFT minting dapp 🔥
+# LastManHolding NFT minting dapp 🔥
 
 ![](https://github.com/degenhausbackup/Lastman_nft_minting_dapp/blob/main/banner.png)
 
