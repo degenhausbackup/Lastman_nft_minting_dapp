@@ -52,22 +52,22 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
 
 ```json
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xA4F64d98ad39A25975D19AC174F9E7a35209369A",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0xa4f64d98ad39a25975d19ac174f9e7a35209369a#code",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "TESTNET Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 97
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
+  "NFT_NAME": "Last Man Holding NFT",
+  "SYMBOL": "LASTMAN",
+  "MAX_SUPPLY": 777,
   "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "DISPLAY_COST": 0.21,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "OpenSea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
-  "SHOW_BACKGROUND": true
+  "MARKETPLACE": "ToFuNFT",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/LastManHolding",
+  "SHOW_BACKGROUND": false
 }
 ```
 
@@ -80,12 +80,12 @@ Next change the theme colors to your liking in the `public/config/theme.css` fil
 
 ```css
 :root {
-  --primary: #ebc908;
-  --primary-text: #1a1a1a;
-  --secondary: #ff1dec;
+  --primary: #3f8cff;
+  --primary-text: #ffffff;
+  --secondary: #0054ff;
   --secondary-text: #ffffff;
-  --accent: #ffffff;
-  --accent-text: #000000;
+  --accent: #505050;
+  --accent-text: #ffffff;
 }
 ```
 
@@ -95,8 +95,8 @@ Now you will need to create and change the `public/favicon.ico`, `public/logo192
 Remember to update the title and description the `public/index.html` file
 
 ```html
-<title>Nerdy Coder Clones</title>
-<meta name="description" content="Mint your Nerdy Coder Clone NFT" />
+<title>Last Man Holding NFT</title>
+<meta name="description" content="Last Man Holding NFT" />
 ```
 
 Also remember to update the short_name and name fields in the `public/manifest.json` file
