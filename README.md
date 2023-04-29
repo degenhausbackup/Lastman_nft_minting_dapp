@@ -2,19 +2,7 @@
 
 ![](https://github.com/degenhausbackup/Lastman_nft_minting_dapp/blob/main/public/logo192.png)
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
-To find out more please visit:
-
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
-
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
-
-[💬 Telegram](https://t.me/hashlipsnft)
-
-[🐦 Twitter](https://twitter.com/hashlipsnft)
-
-[ℹ️ Website](https://hashlips.online/HashLips)
 
 # LastManHolding NFT minting dapp 🔥
 
@@ -123,3 +111,19 @@ npm run build
 Now you can host the contents of the build folder on a server.
 
 That's it! you're done.
+
+Thanks to Hashlips for original Code
+
+All the code in these repos was created and explained by HashLips on the main YouTube channel.
+
+To find out more please visit:
+
+[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+
+[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
+
+[💬 Telegram](https://t.me/hashlipsnft)
+
+[🐦 Twitter](https://twitter.com/hashlipsnft)
+
+[ℹ️ Website](https://hashlips.online/HashLips)
