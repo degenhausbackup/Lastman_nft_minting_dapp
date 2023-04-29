@@ -1,6 +1,6 @@
-# Welcome to HashLips 👄
+# Welcome to LastManHolding 👄
 
-![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/logo.png)
+![](https://github.com/degenhausbackup/Lastman_nft_minting_dapp/blob/main/public/logo192.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
@@ -16,9 +16,9 @@ To find out more please visit:
 
 [ℹ️ Website](https://hashlips.online/HashLips)
 
-# HashLips NFT minting dapp 🔥
+# LastMan NFT minting dapp 🔥
 
-![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/banner.png)
+![](https://github.com/degenhausbackup/Lastman_nft_minting_dapp/blob/main/banner.png)
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
