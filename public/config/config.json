@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xA4F64d98ad39A25975D19AC174F9E7a35209369A",
-  "SCAN_LINK": "https://testnet.bscscan.com/address/0xa4f64d98ad39a25975d19ac174f9e7a35209369a#code",
+  "CONTRACT_ADDRESS": "0xD5F45FEA27dc692651B57585b18C1B57812beBe7",
+  "SCAN_LINK": "https://bscscan.com/address/0xD5F45FEA27dc692651B57585b18C1B57812beBe7#code",
   "NETWORK": {
     "NAME": "TESTNET Binance Smart Chain",
     "SYMBOL": "BNB",
     "ID": 97
   },
-  "NFT_NAME": "Last Man Holding NFT",
-  "SYMBOL": "LASTMAN",
-  "MAX_SUPPLY": 777,
+  "NFT_NAME": "RACE 1 Defi Derby Winners Circle",
+  "SYMBOL": "LRACE 1",
+  "MAX_SUPPLY": 99,
   "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.21,
+  "DISPLAY_COST": 0.24,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "ToFuNFT",
   "MARKETPLACE_LINK": "https://opensea.io/collection/LastManHolding",
