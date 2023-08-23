@@ -1,0 +1,23 @@
+{
+  "name": "DeFi Derby RACE ! #26",
+  "description": "Only $5.00USD per NFT, prepare to be captivated as you step into the world of horse racing, beginning with the thrilling race 1! Beyond the rush of the track lies an opportunity to seize prizes worth a collective $250.00 USD, injecting an electrifying element into this premier event that's simply unmissable.",
+  "image": "ipfs://QmbCn53kSREJatBgAVWpu9ivwWd8K8A73xJJRQ81RYatme/26.png",
+  "dna": "92406f6b5d677f9086da91da832b524be2dfba50",
+  "edition": 26,
+  "date": 1692489896258,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "Item",
+      "value": "RACE1"
+    },
+    {
+      "trait_type": "logo",
+      "value": "LastManStanding1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
